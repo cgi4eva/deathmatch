@@ -1,0 +1,15 @@
+// map "fy_aimsport_v2" edit hckr
+// overview description file for fy_aimsport_v2.bsp
+
+global 
+{
+	ZOOM	3.43
+	ORIGIN	0.00 	0.00	160.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/fy_aimsport_v2.bmp"
+	HEIGHT	-1.00
+}
